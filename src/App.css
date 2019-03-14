@@ -15,3 +15,75 @@
   font-family: LLCircular;
   src: url(./Circular_Std/CircularStd-Medium.otf);
 }
+
+form {
+  padding: 3%;
+}
+
+
+
+.otherLearning {
+  display: inline-flex;
+  margin-left: 10%;
+  padding: 3%;
+  margin-right: auto 0;
+  width: 80%;
+
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card {
+  margin: 2%;
+}
+
+/*.d3sell {
+  text-align: center;
+  padding: 3%;
+  font-size: 25px;
+}
+
+.dthree {
+  margin: 1%;
+}
+*/
+.d3 {
+  max-width: 70% !important;
+  margin-left: 15% !important;
+}
+
+.d3sell {
+  text-align: center;
+  padding-top: 1%;
+  font-weight: 700;
+  font-size: 200%;
+}
+
+.c3-event-rect {
+  background-color: red !important;
+}
+
+.c3-chart-arcs-title {
+  background-color: red !important;
+  color: white !important;
+}
+
+.d3button {
+  margin-left: 1em;
+  background: teal;
+  border: none;
+  padding: 0.5em 2em;
+  color: white;
+  cursor: pointer;
+  font-size: 100%;
+  border-radius: 5%;
+
+}
+
+#chart {
+  background: #fff;
+  width: 90%;
+  margin: 1em auto;
+}

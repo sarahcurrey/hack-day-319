@@ -15,9 +15,14 @@
     font-size: 1rem;
     line-height: 1.414;
     text-align: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .footer {
+  background-color: black;
   width: 100%;
 }
 
@@ -49,10 +54,68 @@
 }
 
 .ga-col ga-col-md-10 ga-col-lg-8 ga-col-md-centered {
-	width: 66.66667%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .six-concepts {
-	margin-left: 15%;
-	
+	margin-left: 19%;
+	width: 65%;
+}
+
+.ga-block-secondary {
+    background-color: #f6f6f6;
+    color: #2e2e2e;
+    padding: 23px;
+    width: 60%;
+    display: flex;
+    margin: 3% 20% 5% 20%;
+}
+
+
+.ace {
+	font-family: "Circular",Helvetica,Arial,sans-serif;
+    font-size: 1.44rem;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+}
+
+.start-now {
+	    font-family: "Circular",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.414;
+    color: #767676;
+}
+
+.request {
+	margin-left: 150px;
+	font-weight: bold;
+	color: white;
+	font-size: 26px;
+	background-color: red;
+	padding: 1%;
+	border-radius: 3%;
+	width: 90%;
+}
+
+.partners {
+	color: gray;
+	padding-top: 2%;
+	text-align: center;
+}
+
+.gif {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.learning-paths {
+	font-weight: bold;
+	font-size: 40px;
+	margin: 50px 0 0 270px;
 }

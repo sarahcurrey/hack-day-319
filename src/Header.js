@@ -18,5 +18,3 @@ function Header() {
 export default Header;
 
 
- // <li className="Hlinks"><Link to='/'>Home</Link></li>
-          // <li className="Hlinks"><Link to='/add'>Become a Mentor</Link></li>

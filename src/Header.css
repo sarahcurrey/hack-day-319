@@ -12,5 +12,6 @@
  font-size: 18px;
  margin-bottom: -1px;
  padding: 5px;
+ color: black;
+ text-decoration: underline !important;
 }
-

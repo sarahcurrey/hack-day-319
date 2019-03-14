@@ -42,7 +42,7 @@ class Form extends Component {
     return(
        <div className="full-form">
         <h2 className="book"> Ace the Interview, Land Your Dream Job.  </h2>
-         <h5 className="find"> Practice coding and whiteboard challenges with our experts. Find an expert near you:</h5>
+         <h5 className="find"> Practice coding and whiteboard challenges with our experts. Learn more:</h5>
         <form className="home-form" onSubmit={(e) => this.handleFormSubmit(e)}>
           <section className="where">
               <label>
