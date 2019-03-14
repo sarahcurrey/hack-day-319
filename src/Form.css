@@ -1,0 +1,65 @@
+.full-form {
+  background-color: white;
+  margin: 2% 60% 10% 5%;
+  width: 30%;
+}
+
+.book, .find {
+  padding: 5% 8% 0 5%;
+}
+
+.book {
+  font-weight: bold;
+  text-align: center;
+}
+
+.full-form > form {
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+  grid-template-columns: 1fr 1fr;
+}
+
+.where {
+  padding: 5% 5%;
+  grid-column: span 2;
+}
+
+.first-name {
+  align-self: center;
+  padding: 0 2% 0 10%;
+  grid-column: span 1;
+}
+
+.last-name {
+  align-self: center;
+  padding: 0 10% 0 2%;
+  grid-column: span 1;
+}
+
+.email {
+  padding: 5% 5%;
+  width: 100%;
+  height: 75%;
+  grid-column: span 2;
+}
+
+.search {
+  text-align: center;
+  padding: 5% 5%;
+  grid-column: span 2;
+}
+
+input {
+  line-height: 24px;
+  width: 100%;
+}
+
+.search-button {
+  cursor: pointer;
+  background-color: #e41a23;
+  width: 50%;
+  color: white;
+  font-size: 19px;
+  border-radius: 5px;
+  padding: 3%;
+}
