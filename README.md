@@ -1,5 +1,7 @@
 
 ## March Hack Day: Moving Mount Fuji's Technical Interview Prototype PDP
+Built using React, React-Strap, D3.js
+Deploy Link: https://march-hack-tech-interview.netlify.com/
 
 The purpose of this site is to create a prototype PDP to show the landing page for technical interview information as well as gather leads and route to myGA computer science and interview lessons. 
 
